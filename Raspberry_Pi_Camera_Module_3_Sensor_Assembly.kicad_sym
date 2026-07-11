@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:CONN-SMD_DF37NC-30DS-0.4V-51"
+		(property "Footprint" "Raspberry_Pi_Camera_Module_3_Sensor_Assembly:CONN-SMD_DF37NC-30DS-0.4V-51"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
